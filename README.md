@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **sojan.ryan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_l_AZgDVSuZ8S7Rbax8FpBtj-a9eKOM-/view?usp=sharing](https://drive.google.com/file/d/1_l_AZgDVSuZ8S7Rbax8FpBtj-a9eKOM-/view?usp=sharing)
-
 - ⚡ Fun fact **I'm a homebody with a strong desire to see the globe and take in the breathtaking sights that it has to offer.**
 
 <h3 align="left">Connect with me:</h3>
