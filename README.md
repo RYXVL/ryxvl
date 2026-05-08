@@ -14,10 +14,10 @@
 - ⚡ Fun fact **I'm a homebody with a strong desire to see the globe and take in the breathtaking sights that it has to offer.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ryan-sojan-50247a23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/ryansojan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+<table><tr>
+<td><a href="https://linkedin.com/in/ryan-sojan-50247a23a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
+<td><a href="https://instagram.com/ryansojan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></td>
+</tr></table>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -55,9 +55,4 @@
 </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryxvl&show_icons=true&locale=en&layout=compact" alt="ryxvl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryxvl&show_icons=true&locale=en" alt="ryxvl" /></p>
-
-<!-- Fixed: herokuapp URL was deprecated, new host is streak-stats.demolab.com -->
 <p><img align="center" src="https://streak-stats.demolab.com/?user=ryxvl" alt="ryxvl" /></p>
