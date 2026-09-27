@@ -1,58 +1,38 @@
 <h1 align="center">Hi 👋, I'm Ryan Sojan</h1>
-<h3 align="center">Mastering the Foundations: Exploring Data Structures, Algorithms, and Programming Languages.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryxvl&label=Profile%20Views&color=0e75b6&style=flat" alt="ryxvl" /> </p>
+<p align="center">
+  Software Engineer • Distributed Systems • Backend • Cloud
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryxvl" alt="ryxvl" /></a> </p>
+<p align="center">
+  <a href="https://ryansojan.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ryan-sojan">LinkedIn</a> •
+  <a href="mailto:sojan.ryan@gmail.com">Email</a>
+</p>
 
-- 🌱 I'm currently learning **Node.js, Express.js, and MongoDB**
+---
 
-- 💬 Ask me about **Flutter, CUDA, and Python**
+### About Me
 
-- 📫 How to reach me **sojan.ryan@gmail.com**
+- 💻 Software Engineer focused on **backend systems, distributed systems, and cloud infrastructure**
+- 🛠️ Experienced with **Python, Go, Java, Node.js, AWS, Docker, Terraform, Redis, and SQL**
+- 🚀 Building **OPT Pulse**, a real-time dashboard for OPT/STEM OPT processing timelines
+- 🧩 Interested in **system design, scalable APIs, microservices, and concurrency**
 
-- ⚡ Fun fact **I'm a homebody with a strong desire to see the globe and take in the breathtaking sights that it has to offer.**
+### Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<table><tr>
-<td><a href="https://linkedin.com/in/ryan-sojan-50247a23a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
-<td><a href="https://instagram.com/ryansojan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></td>
-</tr></table>
+**[OPT Pulse](https://opt-pulse.vercel.app/)**  
+Real-time dashboard for OPT and STEM OPT processing timelines, built with Python, React, Vite, and Tailwind CSS.
 
-<h3 align="left">Languages and Tools:</h3>
+**Distributed Ticketing System**  
+Fault-tolerant event-driven microservices system built with **Go, AWS, Redis, MySQL, and Terraform**, handling high-concurrency ticket reservations and payment processing.
 
-<!-- Fixed: use a table so icons wrap horizontally in all GitHub renderers -->
-<table>
-<tr>
-<td align="center" width="60"><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
-</tr>
-<tr>
-<td align="center" width="60"><a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
-</tr>
-<tr>
-<td align="center" width="60"><a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-<td align="center" width="60"><a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a></td>
-</tr>
-</table>
+### Tech Stack
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=ryxvl" alt="ryxvl" /></p>
+**Languages:** Python · Go · Java · C · JavaScript · SQL · Bash
+
+**Backend & Data:** Node.js · Express · REST APIs · MySQL · MongoDB · Redis · Snowflake
+
+**Cloud & Infrastructure:** AWS · Docker · Terraform · Azure
+
+**Other:** Distributed Systems · Microservices · System Design · Concurrency · Git
